@@ -1,4 +1,3 @@
-# BCDSAgent
 # BCDS Agent (Ver. 2) Distribution
 
 ## BCDS Agent Binary
