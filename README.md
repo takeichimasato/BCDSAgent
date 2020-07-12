@@ -1,15 +1,14 @@
 # BCDS Agent (Ver. 2) Distribution
 
+Inquiries to: takeichi@acm.org
 ## BCDS Agent Binary
 BCDS Agent software package has been distributed for Mac OS X and Windows OS.
 
-This version (Ver.2) is based on the previous version called Ver.1 with significant improvement; BCDS Agent Ver.2 uses ‘Character-based User Interface’ rather than GUI adopted in Ver.1\. This makes the software portable between recent Mac OS X and Windows OS.
-
-The software needs no particular library to run on machines with these OS. User can install the software on the machine and start the Agent by giving the configuration file for the Agent on the terminal (command line) application. The configuration file is a text file describing the connection information and the code for Application written in SQL.
+The software needs no additional programs to run on machines with these OS. User can install the binary executable code simply by unzipping the downloaded file. Start the program by giving the configuration file for the Agent on the terminal (command line) application. The configuration file is a text file describing the connection information and the code for Application written in SQL. The instruction for providing the configuration file and the tutorial with examples are included in the package.
 
 Current version is working on machines accessible by local network addresses without any specific support of network software library.
 
-The original document describes how to use the software in step-by-step fashion. Following this tutorial leads users to design and run their own Bidirectional Collaboration Data Sharing System.
+The tutorial text describes how to use the software in step-by-step fashion. Following this tutorial leads users to design and run their own Bidirectional Collaboration Data Sharing System.
 
 ## BCDS based System Examples
 * **CTDS2.0**: Collaborative Taxi Dispatching System
