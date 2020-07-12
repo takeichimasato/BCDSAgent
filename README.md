@@ -1,4 +1,41 @@
 # BCDSAgent
+# BCDS Agent (Ver. 2) Distribution
+
+## BCDS Agent Binary
+BCDS Agent software package has been distributed for Mac OS X and Windows OS.
+
+This version (Ver.2) is based on the previous version called Ver.1 with significant improvement; BCDS Agent Ver.2 uses ‘Character-based User Interface’ rather than GUI adopted in Ver.1\. This makes the software portable between recent Mac OS X and Windows OS.
+
+The software needs no particular library to run on machines with these OS. User can install the software on the machine and start the Agent by giving the configuration file for the Agent on the terminal (command line) application. The configuration file is a text file describing the connection information and the code for Application written in SQL.
+
+Current version is working on machines accessible by local network addresses without any specific support of network software library.
+
+The original document describes how to use the software in step-by-step fashion. Following this tutorial leads users to design and run their own Bidirectional Collaboration Data Sharing System.
+
+## BCDS based System Examples
+* **CTDS2.0**: Collaborative Taxi Dispatching System
+* ...
+Also several examples included in BCDS Agent Binary packages.
+
+
+## Using BCDS Agent (Ver.2) on Mac OS X and on Windows 10
+* Download **BCDSAgent2.?.zip** for Mac OS X or **BCDSAgent2.?-win.zip** for Windows 10.
+* Unzip the downloaded Zip file in any folder.
+
+### Contents distributed:
+* **BCDS Agent (Ver.2) Users Guide** explains how to use this ‘Bidirectional Collaborative Data Sharing’ (BCDS) for experiments.
+* **BCDSAgent-exe** :  Binary executable code 
+* **Orchestra** folder contains configuration files and database for demonstration; this simulate an example of CDSS from ‘Orchestra’ Paper of ACM TODS 38(3), 2013
+* **DejimaXYZ** folder contains configuration files and database for constructing Dejima with three Sites.
+
+### Environments
+BCDS Agent (Ver.2) was developed under Mac OS X 10.14.5, and was tested on Mac OS X 10.12, too. There will be no problems running on recent versions of Mac OS.  And also it was tested on Windows 10.
+### What we need for experimentation of BCDS
+We are strongly advised to use **DB Browser for SQLite** to prepare persistent data (database table) of participant Sites of BCDS Agent and to update the View of their own data.
+
+We may use ‘sqlite3’ command line application provided by Mac OS to do these tasks, which might be tedious work to do with ‘sqlite3’ commands.
+
+**DB Browser for SQLite** can be downloaded from https://sqlitebrowser.org
 # Overview of Bidirectional Collaborative Data Sharing
 ### Masato Takeichi 2019/12/29
 ## Collaborative Data Sharing
