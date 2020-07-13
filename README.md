@@ -28,7 +28,7 @@ Also several examples included in BCDS Agent Binary packages.
 
 ### Environments
 BCDS Agent (Ver.2) was developed under Mac OS X 10.14.5, and was tested on Mac OS X 10.12, too. There will be no problems running on recent versions of Mac OS.  And also it was tested on Windows 10.
-### What we need for experimentation of BCDS
+### What we need for running BCDS-based systems
 We are strongly advised to use **DB Browser for SQLite** to prepare persistent data (database table) of participant Sites of BCDS Agent and to update the View of their own data.
 
 We may use ‘sqlite3’ command line application provided by Mac OS to do these tasks, which might be tedious work to do with ‘sqlite3’ commands.
