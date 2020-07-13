@@ -25,7 +25,7 @@ Also several examples included in BCDS Agent Binary packages.
 ### Contents distributed:
 * **BCDS Agent (Ver.2) Users Guide** explains how to use this ‘Bidirectional Collaborative Data Sharing’ (BCDS) for experiments.
 * **BCDSAgent-exe** :  Binary executable code 
-* **Orchestra** folder contains configuration files and database for demonstration; this simulate an example of CDSS from ‘Orchestra’ Paper of ACM TODS 38(3), 2013
+* **Orchestra** folder contains configuration files and database for demonstration; this simulates an example of CDSS from ‘Orchestra’ Paper of ACM TODS 38(3), 2013
 * **DejimaXYZ** folder contains configuration files and database for constructing Dejima with three Sites.
 
 ### Environments
