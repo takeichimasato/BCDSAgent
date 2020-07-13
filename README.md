@@ -2,6 +2,11 @@
 
 Inquiries to: takeichi@acm.org
 ## BCDS Agent Binary
+
+**BCDS Agent User's Guide** describes how to use the BCDS Agent software.
+* The Users' Guide includes a step-by-step tutorial for installing and running the program.
+* Also included explanatory notes on an example system 'Orchestra' and an exercise on developing 'DejimaXYZ' system, both described below.
+
 BCDS Agent software package has been distributed for Mac OS X and Windows OS.
 * **BCDSAgent2.2.zip**: Distribution Package for Mac OS X
 * **BCDSAgent2.2-win.zip**: Distribution Package for Windows 10
@@ -13,8 +18,8 @@ Current version is working on machines accessible by local network addresses wit
 The tutorial text describes how to use the software in step-by-step fashion. Following this tutorial leads users to design and run their own Bidirectional Collaboration Data Sharing System.
 
 ## BCDS based System Examples
-* **Orchestra.zip**: Contains configuration files and databases for an example described in the Tutorial.
-* **DejimaXYZ.zip**: Contains configuration files and databases for an exercise described in the Tutorial.
+* **Orchestra.zip**: Contains configuration files and databases for an example described in the User's Guide.
+* **DejimaXYZ.zip**: Contains configuration files and databases for an exercise described in the User's Guide.
 * **Turnaround.zip**: Contains configuration files and databases for modeling Turnaround Deliberation and Public Comment System with Dejima-style data sharing. Explanatory notes with snapshots included.
 * **CTDS2.0.zip**: Contains configuration files and databases for the Collaborative Taxi Dispatching System (CTDS). Explanatory notes with snapshots included.
 
