@@ -3,6 +3,8 @@
 Inquiries to: takeichi@acm.org
 ## BCDS Agent Binary
 BCDS Agent software package has been distributed for Mac OS X and Windows OS.
+* **BCDSAgent2.2.zip**: Distribution Package for Mac OS X
+* **BCDSAgent2.2-win.zip**: Distribution Package for Windows 10
 
 The software needs no additional programs to run on machines with these OS. User can install the binary executable code simply by unzipping the downloaded file. Start the program by giving the configuration file for the Agent on the terminal (command line) application. The configuration file is a text file describing the connection information and the code for Application written in SQL. The instruction for providing the configuration file and the tutorial with examples are included in the package.
 
