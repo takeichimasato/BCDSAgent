@@ -18,10 +18,10 @@ Current version is working on machines accessible by local network addresses wit
 The tutorial text describes how to use the software in step-by-step fashion. Following this tutorial leads users to design and run their own Bidirectional Collaboration Data Sharing System.
 
 ## BCDS-based System Examples
-* **Orchestra.zip**: Contains configuration files and databases for an example described in the User's Guide.
-* **DejimaXYZ.zip**: Contains configuration files and databases for an exercise described in the User's Guide.
-* **Turnaround.zip**: Contains configuration files and databases for modeling Turnaround Deliberation and Public Comment System with Dejima-style data sharing. Explanatory notes with snapshots included.
-* **CTDS2.0.zip**: Contains configuration files and databases for the Collaborative Taxi Dispatching System (CTDS). Explanatory notes with snapshots included.
+* **Orchestra.zip**: Contains configuration files and database tables for an example described in the User's Guide.
+* **DejimaXYZ.zip**: Contains configuration files and database tables for an exercise described in the User's Guide.
+* **Turnaround.zip**: Contains configuration files and database tables for modeling Turnaround Deliberation and Public Comment System with Dejima-style data sharing. Explanatory notes with snapshots included.
+* **CTDS2.0.zip**: Contains configuration files and database tables for the Collaborative Taxi Dispatching System (CTDS). Explanatory notes with snapshots included.
 
 ## Using BCDS Agent (Ver.2) on Mac OS X and on Windows 10
 * Download **BCDSAgent2.?.zip** for Mac OS X or **BCDSAgent2.?-win.zip** for Windows 10.
