@@ -17,7 +17,7 @@ Current version is working on machines accessible by local network addresses wit
 
 The tutorial text describes how to use the software in step-by-step fashion. Following this tutorial leads users to design and run their own Bidirectional Collaboration Data Sharing System.
 
-## BCDS based System Examples
+## BCDS-based System Examples
 * **Orchestra.zip**: Contains configuration files and databases for an example described in the User's Guide.
 * **DejimaXYZ.zip**: Contains configuration files and databases for an exercise described in the User's Guide.
 * **Turnaround.zip**: Contains configuration files and databases for modeling Turnaround Deliberation and Public Comment System with Dejima-style data sharing. Explanatory notes with snapshots included.
