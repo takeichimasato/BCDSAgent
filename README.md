@@ -1,6 +1,6 @@
 # BCDS Agent (Ver. 2) Distribution
 
-Inquiries to: takeichi@acm.org Masato Takeichi
+Inquiries to: Masato Takeichi takeichi@acm.org
 ## BCDS Agent Binary
 
 **BCDS Agent User's Guide** describes how to use the BCDS Agent software.
