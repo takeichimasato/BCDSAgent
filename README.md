@@ -43,7 +43,7 @@ We may use ‘sqlite3’ command line application provided by Mac OS to do these
 **DB Browser for SQLite** can be downloaded from https://sqlitebrowser.org
 # Overview of Bidirectional Collaborative Data Sharing
 ### Masato Takeichi 2019/12/29
-**BCDS** above contains Japanese/English description with a few figures. Following English text reproduced from it.
+**BCDS Overview.pdf** above contains Japanese/English description with a few figures. Following English text reproduced from it.
 
 ## Collaborative Data Sharing
   The Collaborative Data Sharing (CDS) system consists of multiple sites that have specific data and share some data with other sites, each running a specific application. The sites connected by the network are executed independently of each other, but the update of the shared data is performed in cooperation. That is, concerning shared data, updates at one site are respected at other sites and are reflected in data held based on the policies of each site.
